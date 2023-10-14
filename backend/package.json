@@ -8,9 +8,9 @@
   },
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
-  "author": "Anas Kapadia",
+  "author": "FarmIt",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",

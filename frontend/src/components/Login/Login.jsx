@@ -12,6 +12,8 @@ const Login = () => {
   const [password, setPassword] = useState("");
   const [visible, setVisible] = useState(false);
 
+
+
   const handleSubmit = async (e) => {
     e.preventDefault();
 
@@ -126,6 +128,8 @@ const Login = () => {
               >
                 Submit
               </button>
+
+  
             </div>
             <div className={`${styles.noramlFlex} w-full`}>
               <h4>Not have any account?</h4>

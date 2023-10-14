@@ -216,10 +216,9 @@ const Header = ({ activeHeading }) => {
           </div>
           <div>
             <Link to="/">
-              <img
-                src="https://shopo.quomodothemes.website/assets/images/logo.svg"
+              <img className="object-contain h-16 w-96 left-3"
+                src="https://farmit.today/assets/farmit-logo.png"
                 alt=""
-                className="mt-3 cursor-pointer"
               />
             </Link>
           </div>
