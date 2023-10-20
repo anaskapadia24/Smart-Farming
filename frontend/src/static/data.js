@@ -219,7 +219,7 @@ export const navItems = [
     },
     {
       id: 5,
-      title: "Vegetables",
+      title: "Imported Fruits",
       subTitle: "",
       image_Url:
         "https://diz7l2x0sn587.cloudfront.net/kisankonnect/Images/ProductGroupImage/20221102125708Untitled design (20)-min.png",
