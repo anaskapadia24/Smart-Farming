@@ -15,11 +15,11 @@ const Hero = () => {
         <h1
           className={`text-[35px] leading-[1.2] 800px:text-[60px] text-[#fff] font-[600] capitalize`}
         >
-          Agriculture <br /> You Can’t Live Without It!
+          Connecting the agriculture
+industry - farm to fork!
         </h1>
         <p className="pt-5 text-[16px] font-[Poppins] font-[400] text-[#fff]">
-        Connecting the agriculture
-industry - farm to fork!{" "}
+        {" "}
           <br /> 
         </p>
         <Link to="/products" className="inline-block">

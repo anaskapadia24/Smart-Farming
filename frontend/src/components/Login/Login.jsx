@@ -6,11 +6,16 @@ import axios from "axios";
 import { server } from "../../server";
 import { toast } from "react-toastify";
 
+// import { useUserAuth } from "../Context/UserAuthContext"; 
+
 const Login = () => {
   const navigate = useNavigate();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [visible, setVisible] = useState(false);
+
+  // const { logIn, googleSignIn } = useUserAuth();  //
+  
 
 
 
@@ -145,3 +150,4 @@ const Login = () => {
 };
 
 export default Login;
+
