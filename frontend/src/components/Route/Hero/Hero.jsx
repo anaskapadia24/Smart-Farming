@@ -15,7 +15,8 @@ const Hero = () => {
         <h1
           className={`text-[35px] leading-[1.2] 800px:text-[60px] text-[#fff] font-[600] capitalize`}
         >
-          WELCOME TO THE WORLD OF FARMING
+          Connecting the agriculture
+industry - farm to fork!
         </h1>
         <p className="pt-5 text-[16px] font-[Poppins] font-[400] text-[#fff]">
         {" "}
