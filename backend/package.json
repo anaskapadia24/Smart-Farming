@@ -3,15 +3,12 @@
   "name": "FarmIt",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
-    "node": "18.x"
+  "node": "18.x"
   },
   "scripts": {
     "dev": "nodemon server.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-
     "start": "nodemon server.js"
   },
   "author": "FarmIt",
