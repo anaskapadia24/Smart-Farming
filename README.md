@@ -1,1 +1,3 @@
-@copyright by becodemy 2023
+@FARMIT 
+Connecting the agriculture
+industry - farm to fork!
